@@ -1,0 +1,592 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+/*header start*/
+header {
+    padding: 23px 0;
+}
+.logo {
+    font-size: 25px;
+}
+.tb {
+    font-size: 16px;
+}
+.menu ul li a{
+	margin:10px 0 0;
+	text-align: right;
+}
+.c-search {
+	margin-top: 10px;
+    text-align: right;
+}
+.cdm {
+    min-width: 295px;
+}
+.cdm[data-bs-popper] {
+    top: 40px;
+    left: -5px;
+}
+.s-input{
+	height: 40px;
+}
+.s-btn{
+    height: 40px;
+}
+/*slider start*/
+.s-text {
+    margin: 70px 0;
+}
+.s-text h1 {
+    font-size: 40px;
+}
+.s-text p {
+    margin: 40px 0;
+}
+.slider .s-text .c-btn {
+    margin-left: 0px;
+    padding: 10px 20px;
+}
+/*service start*/
+.service {
+    padding-bottom: 70px;
+}
+.c-h1 {
+    margin-top: 15px;
+    margin-bottom: 25px;
+    font-size: 25px;
+}
+.s-service {
+    margin-top: 50px;
+    padding: 74px 0px 30px;
+}
+.s-h2{
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+.s-pera {
+    padding-bottom: 20px;
+}
+.s-icon i {
+    font-size: 50px;
+}
+/*about start*/
+.about {
+    padding-bottom: 70px;
+}
+.a-text {
+    margin-top: 25px;
+}
+.a-text h1 {
+    margin-bottom: 15px;
+}
+.about .c-btn {
+    margin-left: 0px;
+    padding: 10px 25px;
+}
+.mid-p {
+    margin: 20px 0;
+}
+/*portfolio start*/
+.portfolio {
+    padding-bottom: 70px;
+}
+.g-menu {
+    margin-bottom: 30px !important;
+}
+/*why choose start*/
+.why-choose{
+    padding-bottom: 70px;
+}
+.why-text{
+    text-align: center;
+}
+.w-p {
+    margin-top: 10px;
+}
+.w-arrow {
+    margin-left: 15px;
+    margin-top: 15px;
+    width: 294px;
+}
+/*employee start*/
+.n-employees{
+   padding-bottom: 70px;
+}
+.e-single{
+   padding-top: 20px;
+} 
+.g-title {
+    font-size: 16px;
+}
+/*pricing start*/
+.pricing{
+    padding-bottom: 70px;
+}
+.p-sec {
+    margin-top: 30px;
+}
+.p-title {
+    margin-bottom: 10px;
+}
+.p-head {
+    margin-left: 25px;
+    margin-bottom: 15px;
+}
+.dark {
+    font-size: 25px;
+}
+.p-sec ul li {
+    margin-bottom: 15px;
+}
+.btn-p {
+    margin: 30px 25px;
+}
+.p-btn {
+    padding: 10px 45px;
+}
+/*buy start*/
+.buy-sec{
+    padding-bottom: 70px;
+}
+.buy {
+    padding: 20px 0;
+}
+.buy-p {
+    font-size: 17px;
+    text-align: center;
+}
+.c-btn {
+    margin-left: 85px;
+    padding: 10px 25px;
+}
+/*testimonial start*/
+.testimonial-sec {
+    margin-bottom: 70px;
+}
+.t-h2 {
+    margin: 10px 0;
+}
+.t-h3 {
+    margin-bottom: 10px;
+}
+.t-h4 {
+    margin-bottom: 10px;
+}
+.tp-text {
+    margin-bottom: 15px;
+}
+/*contact start*/
+.contact-sec{
+    padding-bottom: 70px;
+}
+.cus-h1 {
+    margin-left: 25px;
+    margin-top: -12px;
+    margin-bottom: 25px;
+    font-size: 22px;
+    width: 150px;
+    height: 15px;
+}
+.c-input {
+    margin-bottom: 15px;
+}
+.contact .p-btn {
+    margin-bottom: 25px;
+    padding: 10px 35px;
+}
+/*footer start*/
+footer .c-h1 {
+    margin-bottom:15px;
+    font-size: 25px;
+}
+.f-text {
+    margin-bottom: 20px;
+    letter-spacing: 0;
+}
+.f-media {
+    padding-bottom: 70px;
+}
+.f-media ul li a i {
+    padding: 7px;
+    font-size: 22px;
+    width: 40px;
+    height: 40px;
+}
+.footer-btm {
+    padding: 20px 0;
+}
+.fbp {
+    padding-bottom: 10px;
+}
+
+
+
+
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*header start*/
+header {
+    padding: 25px 0;
+}
+.menu ul li a{
+	margin:10px 0 0;
+	text-align: right;
+}
+.c-search {
+	margin-top: 10px;
+    text-align: right;
+}
+.cdm[data-bs-popper] {
+    top: -10px;
+    left: 90px;
+}
+.s-input{
+	height: 40px;
+}
+.s-btn{
+    height: 40px;
+}
+/*slider start*/
+.s-text {
+    margin: 100px 0;
+}
+.s-text h1 {
+    font-size: 40px; 
+}
+/*service start*/
+.service {
+    padding-bottom: 70px;
+}
+.c-h1 {
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.s-service {
+    margin-top: 60px;
+    padding: 74px 0px 30px;
+}
+.s-h2{
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
+.s-pera {
+    padding-bottom: 25px;
+}
+.s-icon i {
+    font-size: 50px;
+}
+/*about start*/
+.about {
+    padding-bottom: 70px;
+}
+.a-text {
+    margin-top: 20px;
+}
+.a-text h1 {
+    margin-bottom: 15px;
+}
+.mid-p {
+    margin: 25px 0;
+}
+/*portfolio start*/
+.portfolio {
+    padding-bottom: 70px;
+}
+/*why choose start*/
+.why-choose{
+    padding-bottom: 70px;
+}
+.w-p {
+    margin-top: 10px;
+}
+.w-arrow {
+    margin-top: 15px;
+    width: 255px;
+}
+/*employee start*/
+.n-employees{
+   padding-bottom: 70px;
+}
+.e-single{
+   padding-top: 30px;
+} 
+.g-title {
+    font-size: 16px;
+}
+/*pricing start*/
+.pricing{
+    padding-bottom: 70px;
+}
+.p-sec {
+    margin-top: 30px;
+}
+.p-title {
+    margin-bottom: 20px;
+}
+.p-head {
+    margin-left: 25px;
+    margin-bottom: 20px;
+}
+.dark {
+    font-size: 25px;
+}
+.p-sec ul li {
+    margin-bottom: 15px;
+}
+.btn-p {
+    margin: 30px 25px;
+}
+.p-btn {
+    padding: 10px 45px;
+}
+/*buy start*/
+.buy-sec{
+    padding-bottom: 70px;
+}
+.buy {
+    padding: 20px 0;
+}
+.c-btn {
+    margin-left: 0px;
+    padding: 10px 25px;
+}
+/*testimonial start*/
+.testimonial-sec {
+    margin-bottom: 70px;
+}
+.t-h2 {
+    margin-bottom: 10px;
+}
+.t-h3 {
+    margin-bottom: 10px;
+}
+.t-h4 {
+    margin-bottom: 10px;
+}
+.tp-text {
+    margin-bottom: 15px;
+}
+/*contact start*/
+.contact-sec{
+    padding-bottom: 70px;
+}
+.cus-h1 {
+    margin-left: 70px;
+    margin-top: -15px;
+    margin-bottom: 25px;
+    font-size: 25px;
+    width: 170px;
+    height: 20px;
+}
+.c-input {
+    margin-bottom: 15px;
+}
+.contact .p-btn {
+    margin-bottom: 25px;
+}
+/*footer start*/
+footer .c-h1 {
+    margin-bottom: 20px;
+    font-size: 27px;
+}
+.f-text {
+    margin-bottom: 20px;
+    letter-spacing: 0px;
+}
+.f-media {
+    padding-bottom: 70px;
+}
+.f-media ul li a i {
+    padding: 15px;
+    font-size: 22px;
+}
+.footer-btm {
+    padding: 20px 0;
+}
+.fbp {
+    padding-bottom: 10px;
+}
+
+
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header start*/
+header {
+    padding: 30px 0;
+}
+.menu ul li a{
+	margin:10px 0 0;
+	text-align: right;
+}
+.c-search {
+	margin-top: 10px;
+    text-align: right;
+}
+.cdm[data-bs-popper] {
+   top: -15px;
+   left: 265px;
+}
+/*slider start*/
+.s-text {
+    margin: 140px 0;
+}
+.s-text h1 {
+    font-size: 50px;  
+}
+/*service start*/
+.service {
+    padding-bottom: 80px;
+}
+.c-h1 {
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+.s-service {
+    margin-top: 80px;
+}
+.s-pera {
+    padding-bottom: 25px;
+}
+/*about start*/
+.about {
+    padding-bottom: 80px;
+}
+.a-text {
+    margin-top: 20px;
+}
+.a-text h1 {
+    margin-bottom: 25px;
+}
+
+.mid-p {
+    margin: 25px 0;
+}
+/*portfolio start*/
+.portfolio {
+    padding-bottom: 80px;
+}
+/*why choose start*/
+.why-choose{
+    padding-bottom: 80px;
+}
+.w-p {
+    margin-top: 20px;
+}
+.w-arrow {
+    margin-top: 15px;
+    width: 340px;
+}
+/*employee start*/
+.n-employees{
+   padding-bottom: 80px;
+}
+.e-single{
+   padding-top: 50px;
+} 
+/*pricing start*/
+.pricing{
+    padding-bottom: 80px;
+}
+.p-sec {
+    margin-top: 40px;
+}
+.p-title {
+    margin-bottom: 30px;
+}
+.p-head {
+    margin-left: 25px;
+    margin-bottom: 30px;
+}
+.dark {
+    font-size: 30px;
+}
+.btn-p {
+    margin: 30px 25px;
+}
+/*buy start*/
+.buy-sec{
+    padding-bottom: 80px;
+}
+.buy {
+    padding: 30px 0;
+}
+/*testimonial start*/
+.testimonial-sec {
+    margin-bottom: 80px;
+}
+.t-h4 {
+    margin-bottom: 25px;
+}
+.tp-text {
+    margin-bottom: 30px;
+}
+/*contact start*/
+.contact-sec{
+    padding-bottom: 80px;
+}
+.cus-h1 {
+    margin-left: 120px;
+    margin-top: -15px;
+    margin-bottom: 40px;
+    font-size: 25px;
+    width: 170px;
+    height: 20px;
+}
+.c-input {
+    margin-bottom: 25px;
+}
+/*footer start*/
+.f-text {
+    margin-bottom: 30px;
+}
+.f-media {
+    padding-bottom: 80px;
+}
+.footer-btm {
+    padding: 25px 0;
+}
+.fbp {
+    padding-bottom: 20px;
+}
+
+}
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*slider start*/
+.s-text h1 {
+    font-size: 50px;  
+}
+/*why choose start*/
+.w-arrow {
+    width: 295px;
+}
+/*pricing start*/
+.p-head {
+    margin-left: 25px;
+}
+.dark {
+    font-size: 30px;
+}
+.btn-p {
+    margin: 40px 10px;
+}
+/*buy start*/
+.c-btn {
+    margin-left: 50px;
+}
+
+}
+
+/*X-Large devices (larger desktops, 1200px and up)*/
+@media (min-width:1200px) and (max-width: 1399.98px) {
+
+}
+
+/*XX-Large devices (larger desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+
+}
