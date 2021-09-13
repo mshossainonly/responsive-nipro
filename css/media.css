@@ -74,16 +74,17 @@ header {
 }
 .a-text {
     margin-top: 25px;
+    text-align: center;
 }
 .a-text h1 {
     margin-bottom: 15px;
 }
 .about .c-btn {
-    margin-left: 0px;
     padding: 10px 25px;
 }
 .mid-p {
-    margin: 20px 0;
+    margin-top: 20px;
+    margin-bottom: 30px;
 }
 /*portfolio start*/
 .portfolio {
@@ -101,11 +102,6 @@ header {
 }
 .w-p {
     margin-top: 10px;
-}
-.w-arrow {
-    margin-left: 15px;
-    margin-top: 15px;
-    width: 294px;
 }
 /*employee start*/
 .n-employees{
@@ -151,11 +147,12 @@ header {
     padding: 20px 0;
 }
 .buy-p {
-    font-size: 17px;
+    margin-bottom: 30px!important;
+    font-size: 16px;
     text-align: center;
 }
-.c-btn {
-    margin-left: 85px;
+.buy .c-btn{
+    margin-left: 70px;
     padding: 10px 25px;
 }
 /*testimonial start*/
@@ -190,7 +187,7 @@ header {
     margin-bottom: 15px;
 }
 .contact .p-btn {
-    margin-bottom: 25px;
+    margin: 20px 0;
     padding: 10px 35px;
 }
 /*footer start*/
@@ -199,27 +196,27 @@ footer .c-h1 {
     font-size: 25px;
 }
 .f-text {
-    margin-bottom: 20px;
+    margin-bottom: 30px;
     letter-spacing: 0;
 }
 .f-media {
     padding-bottom: 70px;
 }
 .f-media ul li a i {
-    padding: 7px;
-    font-size: 22px;
-    width: 40px;
-    height: 40px;
+    padding: 5px;
+    font-size: 20px;
+    width: 35px;
+    height: 35px;
 }
 .footer-btm {
     padding: 20px 0;
 }
+.fb-menu ul li a {
+    margin: 0 8px;
+}
 .fbp {
     padding-bottom: 10px;
 }
-
-
-
 
 }
 
@@ -300,10 +297,7 @@ header {
 .w-p {
     margin-top: 10px;
 }
-.w-arrow {
-    margin-top: 15px;
-    width: 255px;
-}
+
 /*employee start*/
 .n-employees{
    padding-bottom: 70px;
@@ -347,7 +341,7 @@ header {
 .buy {
     padding: 20px 0;
 }
-.c-btn {
+.buy .c-btn{
     margin-left: 0px;
     padding: 10px 25px;
 }
@@ -383,7 +377,7 @@ header {
     margin-bottom: 15px;
 }
 .contact .p-btn {
-    margin-bottom: 25px;
+    margin: 25px 0;
 }
 /*footer start*/
 footer .c-h1 {
@@ -403,6 +397,9 @@ footer .c-h1 {
 }
 .footer-btm {
     padding: 20px 0;
+}
+.fb-menu ul li a {
+    margin: 0 8px;
 }
 .fbp {
     padding-bottom: 10px;
@@ -461,7 +458,6 @@ header {
 .a-text h1 {
     margin-bottom: 25px;
 }
-
 .mid-p {
     margin: 25px 0;
 }
@@ -474,12 +470,9 @@ header {
     padding-bottom: 80px;
 }
 .w-p {
-    margin-top: 20px;
+    margin: 25px 0;
 }
-.w-arrow {
-    margin-top: 15px;
-    width: 340px;
-}
+
 /*employee start*/
 .n-employees{
    padding-bottom: 80px;
@@ -514,6 +507,9 @@ header {
 .buy {
     padding: 30px 0;
 }
+.buy .c-btn{
+    margin-left: -10px;
+}
 /*testimonial start*/
 .testimonial-sec {
     margin-bottom: 80px;
@@ -539,6 +535,9 @@ header {
 .c-input {
     margin-bottom: 25px;
 }
+.contact .p-btn {
+    padding: 15px 45px;
+}
 /*footer start*/
 .f-text {
     margin-bottom: 30px;
@@ -548,6 +547,9 @@ header {
 }
 .footer-btm {
     padding: 25px 0;
+}
+.fb-menu ul li a {
+    margin: 0 10px;
 }
 .fbp {
     padding-bottom: 20px;
@@ -560,19 +562,17 @@ header {
 .s-text h1 {
     font-size: 50px;  
 }
-/*why choose start*/
-.w-arrow {
-    width: 295px;
-}
 /*pricing start*/
 .p-head {
     margin-left: 25px;
 }
 .dark {
-    font-size: 30px;
+    font-size: 25px;
 }
-.btn-p {
-    margin: 40px 10px;
+.p-btn {
+    padding: 15px 28px;
+}
+
 }
 /*buy start*/
 .c-btn {
