@@ -176,9 +176,9 @@ header{
 }
 .c-h1{
   margin-top:25px ;
-  margin-bottom:50px ;
+  margin-bottom:40px ;
   font-family:Lato-Regular;
-  font-size: 30px;
+  font-size: 29px;
   font-weight: 400;
   color: #333333;
 }
@@ -252,6 +252,9 @@ header{
   font-size: 30px;
   color: #333333;
   margin-bottom: 40px;
+}
+.a-text .c-btn {
+  margin-left:0;
 }
 .mid-p{
   margin: 40px 0;
@@ -349,6 +352,11 @@ header{
 }
 .why-text{
   margin-top: 40px;
+  border-bottom: 1px solid #cccccc;
+  transition: .3s;
+}
+.why-text:hover{
+  border-color: #333333;
 }
 .w-icon{
   margin-top: -15px;
@@ -362,17 +370,7 @@ header{
   transition: .3s;
 }
 .w-p{
-  margin-top: 40px;
-}
-.w-arrow{
-  margin-top: 30px;
-  width: 340px;
-  height: 1px;
-  background-color: #cccccc;
-  transition: .3s;
-}
-.why-text:hover .w-arrow{
-  background-color:#333333;
+  margin: 40px 0;
 }
 .why-text:hover .w-icon,.why-text:hover .w-title{
   color:#333333;
