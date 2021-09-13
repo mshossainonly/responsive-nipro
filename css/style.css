@@ -57,7 +57,7 @@ header{
   transition: .3s;
 }
 .menu ul li a:hover{
-    color: #333333;
+  color: #333333;
 }
 .c-search{}
 .c-search a{}
@@ -178,7 +178,7 @@ header{
   margin-top:25px ;
   margin-bottom:40px ;
   font-family:Lato-Regular;
-  font-size: 29px;
+  font-size: 30px;
   font-weight: 400;
   color: #333333;
 }
